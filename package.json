@@ -1,0 +1,1 @@
+{"name":"forma-site","version":"1.0.0","private":true,"scripts":{"dev":"python3 -m http.server 3000 --bind 0.0.0.0","build":"node build.mjs","preview":"python3 -m http.server 3000 --bind 0.0.0.0 --directory dist"}}
